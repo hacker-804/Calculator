@@ -4,3 +4,5 @@ Malaika Tanveer Iqbal
 cout<<"sum of two numbers"<<a+b<<endl;
 
 cout<<"subtraction of two numbers"<<a-b<<endl;
+
+cout<<"Multiplication of two numbers"<<a*b<<endl;
