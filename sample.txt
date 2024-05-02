@@ -1,2 +1,4 @@
 Malaika Tanveer Iqbal
 23-st-049
+
+cout<<"sum of two numbers"<<a+b<<endl;
